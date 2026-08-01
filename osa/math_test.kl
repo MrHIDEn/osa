@@ -1,0 +1,6 @@
+module osa
+
+// Skipped when loading package osa/ (*_test.kl). Not part of remote import.
+fn would_break_if_loaded(): i32 {
+    return 999
+}
